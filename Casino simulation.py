@@ -1,4 +1,4 @@
- 
+ #created by dev.pato
 import random  
 import math  
   
