@@ -1,1 +1,1 @@
-# casino casino simulation
+# python casino simulation
